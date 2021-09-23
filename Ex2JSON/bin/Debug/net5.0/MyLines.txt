@@ -1,0 +1,1 @@
+[{"FirstName":"Dorin","LastName":"Pascal","Age":20,"Height":187.5,"IsMarried":false,"Sex":"M","Hobbies":["football","it"]},{"FirstName":"Dan","LastName":"Pascal","Age":23,"Height":187.5,"IsMarried":true,"Sex":"M","Hobbies":["football","drinking"]},{"FirstName":"Iura","LastName":"Melnic","Age":20,"Height":187.5,"IsMarried":false,"Sex":"M","Hobbies":["basketbal","it"]}]

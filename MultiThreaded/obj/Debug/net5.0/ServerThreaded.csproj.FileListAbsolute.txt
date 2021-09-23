@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ServerThreaded.exe
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ServerThreaded.deps.json
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ServerThreaded.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ServerThreaded.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ServerThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ref\ServerThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\bin\Debug\net5.0\ServerThreaded.pdb
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ref\ServerThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.pdb
+C:\Users\User\RiderProjects\SolutionExample\ServerThreaded\obj\Debug\net5.0\ServerThreaded.genruntimeconfig.cache

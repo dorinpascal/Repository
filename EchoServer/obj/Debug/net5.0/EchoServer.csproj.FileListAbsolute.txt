@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\EchoServer.exe
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\EchoServer.deps.json
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\EchoServer.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\EchoServer.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\EchoServer.dll
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\ref\EchoServer.dll
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\bin\Debug\net5.0\EchoServer.pdb
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.dll
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\ref\EchoServer.dll
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.pdb
+C:\Users\User\RiderProjects\SolutionExample\EchoServer\obj\Debug\net5.0\EchoServer.genruntimeconfig.cache

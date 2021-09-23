@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\MathLib.exe
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\MathLib.deps.json
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\MathLib.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\MathLib.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\MathLib.dll
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\ref\MathLib.dll
+C:\Users\User\RiderProjects\SolutionExample\MathLib\bin\Debug\net5.0\MathLib.pdb
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.dll
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\ref\MathLib.dll
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.pdb
+C:\Users\User\RiderProjects\SolutionExample\MathLib\obj\Debug\net5.0\MathLib.genruntimeconfig.cache

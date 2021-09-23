@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\Polindrom.exe
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\Polindrom.deps.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\Polindrom.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\Polindrom.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\Polindrom.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\ref\Polindrom.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\bin\Debug\net5.0\Polindrom.pdb
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\ref\Polindrom.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.pdb
+C:\Users\User\RiderProjects\SolutionExample\Session2\Polindrom\obj\Debug\net5.0\Polindrom.genruntimeconfig.cache

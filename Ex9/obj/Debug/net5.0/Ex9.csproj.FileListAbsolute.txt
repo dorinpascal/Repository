@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\Ex9.exe
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\Ex9.deps.json
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\Ex9.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\Ex9.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\Ex9.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\ref\Ex9.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex9\bin\Debug\net5.0\Ex9.pdb
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\ref\Ex9.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.pdb
+C:\Users\User\RiderProjects\SolutionExample\Ex9\obj\Debug\net5.0\Ex9.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ClientM.exe
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ClientM.deps.json
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ClientM.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ClientM.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ClientM.dll
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ref\ClientM.dll
+C:\Users\User\RiderProjects\SolutionExample\ClientM\bin\Debug\net5.0\ClientM.pdb
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.dll
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ref\ClientM.dll
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.pdb
+C:\Users\User\RiderProjects\SolutionExample\ClientM\obj\Debug\net5.0\ClientM.genruntimeconfig.cache

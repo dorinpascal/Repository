@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\S1_Ex1.exe
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\S1_Ex1.deps.json
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\S1_Ex1.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\S1_Ex1.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\S1_Ex1.dll
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\ref\S1_Ex1.dll
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\bin\Debug\net5.0\S1_Ex1.pdb
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.dll
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\ref\S1_Ex1.dll
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.pdb
+C:\Users\User\RiderProjects\SolutionExample\S1_Ex1\obj\Debug\net5.0\S1_Ex1.genruntimeconfig.cache

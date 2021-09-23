@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ChatClientObj.exe
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ChatClientObj.deps.json
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ChatClientObj.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ChatClientObj.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ChatClientObj.dll
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ref\ChatClientObj.dll
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\bin\Debug\net5.0\ChatClientObj.pdb
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.dll
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ref\ChatClientObj.dll
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.pdb
+C:\Users\User\RiderProjects\SolutionExample\ChatClientObj\obj\Debug\net5.0\ChatClientObj.genruntimeconfig.cache

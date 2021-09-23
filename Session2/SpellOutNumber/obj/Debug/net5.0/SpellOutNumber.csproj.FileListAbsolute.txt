@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\SpellOutNumber.exe
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\SpellOutNumber.deps.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\SpellOutNumber.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\SpellOutNumber.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\SpellOutNumber.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\ref\SpellOutNumber.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\bin\Debug\net5.0\SpellOutNumber.pdb
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\ref\SpellOutNumber.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.pdb
+C:\Users\User\RiderProjects\SolutionExample\Session2\SpellOutNumber\obj\Debug\net5.0\SpellOutNumber.genruntimeconfig.cache

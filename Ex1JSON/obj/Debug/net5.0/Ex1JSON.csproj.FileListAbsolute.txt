@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\Ex1JSON.exe
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\Ex1JSON.deps.json
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\Ex1JSON.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\Ex1JSON.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\Ex1JSON.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\ref\Ex1JSON.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\bin\Debug\net5.0\Ex1JSON.pdb
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\ref\Ex1JSON.dll
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.pdb
+C:\Users\User\RiderProjects\SolutionExample\Ex1JSON\obj\Debug\net5.0\Ex1JSON.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\SolutionExample\Session2\Ex3_Doctor\obj\Debug\net5.0\Ex3_Doctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\Session2\Ex3_Doctor\obj\Debug\net5.0\Ex3_Doctor.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\Ex3_Doctor\obj\Debug\net5.0\Ex3_Doctor.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\Session2\Ex3_Doctor\obj\Debug\net5.0\Ex3_Doctor.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\Ex3_Doctor\obj\Debug\net5.0\Ex3_Doctor.csproj.AssemblyReference.cache

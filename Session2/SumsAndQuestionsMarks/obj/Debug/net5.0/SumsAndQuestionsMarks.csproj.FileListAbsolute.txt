@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\SumsAndQuestionsMarks.exe
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\SumsAndQuestionsMarks.deps.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\SumsAndQuestionsMarks.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\SumsAndQuestionsMarks.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\SumsAndQuestionsMarks.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\ref\SumsAndQuestionsMarks.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\bin\Debug\net5.0\SumsAndQuestionsMarks.pdb
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\ref\SumsAndQuestionsMarks.dll
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.pdb
+C:\Users\User\RiderProjects\SolutionExample\Session2\SumsAndQuestionsMarks\obj\Debug\net5.0\SumsAndQuestionsMarks.genruntimeconfig.cache

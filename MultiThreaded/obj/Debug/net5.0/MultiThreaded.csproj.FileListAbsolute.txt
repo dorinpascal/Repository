@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\MultiThreaded.exe
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\MultiThreaded.deps.json
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\MultiThreaded.runtimeconfig.json
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\MultiThreaded.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\MultiThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\ref\MultiThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\bin\Debug\net5.0\MultiThreaded.pdb
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\ref\MultiThreaded.dll
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.pdb
+C:\Users\User\RiderProjects\SolutionExample\MultiThreaded\obj\Debug\net5.0\MultiThreaded.genruntimeconfig.cache
